@@ -173,7 +173,7 @@ label {
 }
 
 .content-item1 div{
-    background-image: url("../news-homepage-main/assets/images/image-web-3-mobile.jpg");
+    background-image: url("../news-homepage/assets/images/image-web-3-mobile.jpg");
     background-position: center;
     background-size: cover;
     height: 100%;
@@ -515,7 +515,7 @@ figure:hover img{
     }
 
     .content-item1 div{
-        background-image: url("../news-homepage-main/assets/images/image-web-3-desktop.jpg");
+        background-image: url("../news-homepage/assets/images/image-web-3-desktop.jpg");
         background-position: center;
         background-size: cover;
         height: 100%;
